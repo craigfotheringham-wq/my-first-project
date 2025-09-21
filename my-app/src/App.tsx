@@ -26,6 +26,8 @@ function App() {
         </p>
         <p>hello world</p>
          <p>hello again</p>
+         <p>skibidy dibidy doo</p>
+         <p>whipity whipity woop</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
